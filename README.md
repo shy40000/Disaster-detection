@@ -9,4 +9,7 @@ The model was created using that dataset.
 
 We created a a front end web based platform to detect the disaster. by running the index.html file 
 
+### Contributor
 
+Shyam Agarwal
+Sankalp Agrawal
