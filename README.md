@@ -11,5 +11,5 @@ We created a a front end web based platform to detect the disaster. by running t
 
 ### Contributor
 
-Shyam Agarwal
-Sankalp Agrawal
+@Shyam Agarwal
+@Sankalp Agrawal
